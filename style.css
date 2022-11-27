@@ -88,7 +88,7 @@
 h1
 {
    text-align: center;
-   padding bottom: 25px;
+   padding-bottom: 25px;
     
 }
 .feature-img img
@@ -192,7 +192,7 @@ text-align: justify;
 .footer
 {
     padding: 100px 20px;
-    background-image: linear gradient(#2d557d,#9610fb);
+    background-image: linear-gradient(#2d557d,#9610fb);
     color: #fff; 
 }
 .footer-logo
